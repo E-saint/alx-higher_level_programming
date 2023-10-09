@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 # 4-new_in_list.py
 
